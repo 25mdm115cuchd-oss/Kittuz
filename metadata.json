@@ -1,0 +1,6 @@
+{
+  "name": "KITTUZ – Premium Women's Lifestyle",
+  "description": "Elevate your everyday with KITTUZ – India's premier women's lifestyle, fashion, jewellery, and luxury essentials e-commerce destination with AI shopping stylist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
